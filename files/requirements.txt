@@ -1,0 +1,4 @@
+requests
+vaderSentiment
+# optional, unofficial no-key price fallback:
+# yfinance

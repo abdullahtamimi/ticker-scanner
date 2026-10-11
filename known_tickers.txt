@@ -1,0 +1,11 @@
+# Extra tickers to always recognise, in ANY case (soxl, Soxl, SOXL), even if they're not in the
+# SEC ticker list. One symbol per line, 1-5 letters (BRK.B style also ok). Lines starting with # are comments.
+# The script already knows many popular ETFs (SOXL, TQQQ, SPY, UVXY ...); add anything it misses here.
+#
+# Only add symbols that are NOT everyday English words (e.g. don't add ALL, NOW, OPEN, LOVE) -
+# lowercase matching would turn ordinary sentences into false ticker mentions.
+#
+# EXAMPLES (remove the leading # to enable):
+# NVDX
+# AMDL
+TTWO
