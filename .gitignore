@@ -1,0 +1,14 @@
+# Cached data / outputs
+sec_tickers_cache.json
+*.csv
+
+# Secrets - never commit these
+.env
+*.env
+praw.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
